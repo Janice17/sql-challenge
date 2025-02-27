@@ -4,11 +4,11 @@ Module 9 Challenge: Research about people whom the company employed during the 1
 PostgreSQL (queries.sql and schema.sql).
 ## Data Modeling
 Reviewed the CSV files and created an Entity Relationship Diagram of the tables (QuickDBD).
+![alt text](<EmployeeSQL/ERD/QuickDBD-Module 9 Challenge.png>)
 ## Data Engineering Saved in EmployeeSQL (schema.sql)
 Created a table schema for each of the six CSV files. Output files are in the EmployeeSQL/ERD folder.  
+- Specified data types, primary keys, foreign keys, and other constraints.  
 
-- Specified data types, primary kesy, foreign kesy, and other constraints.  
-![alt text](<EmployeeSQL/ERD/QuickDBD-Module 9 Challenge.png>)
 Imported each CSV file into its corresponding SQL table.
 ## Data Analysis Saved in EmployeeSQL (queries.sql)
 1. Listed the employee number, last name, first name, sex, and salary of each employee.  
